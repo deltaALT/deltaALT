@@ -10,9 +10,7 @@ I like tech stuff.
 * yeah thats it ig
 
 ### What am I working on?
-My website, and I'm also working on a custom version of Windows XP, which I will probably publish when I'm done
-![Screenshot (949)](https://github.com/deltaALT/deltaALT/assets/154239532/3498150c-9ede-48ec-886a-65e5f1b9e820)
-<sub><strong>The desktop of the OS as of now. Still gotta figure out how to set a custom wallpaper...</sub></strong>
+My website.
 
 
 
