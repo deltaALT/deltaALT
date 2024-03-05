@@ -16,5 +16,3 @@ My website.
 
 
 <sub>*This README file is best viewed on <strong>Any OS and browser.</strong></sub>
-<br>
-<sub><strong>(This repository has been forked from [Enderman's README](https://github.com/endermanch/endermanch).)</strong></sub>
